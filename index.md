@@ -1,6 +1,6 @@
 # Example Progress Journal
 
-## Week 3 (Oct 24)
+## Week 5 (Oct 24)
 
 + [Here](files/week5.html) is an analysis of Diamond dataset with CART.
 
