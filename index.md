@@ -1,5 +1,3 @@
-# Şule Kütükde
-
 ## Final Exam (Jan)
 
 + [Here](https://github.com/MEF-BDA503/pj-kutukdes/blob/master/files/sule_kutukde_bda503_final.pdf) can be downloaded my final exam.
