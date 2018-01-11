@@ -1,4 +1,4 @@
-# Example Progress Journal
+# Şule Kütükde
 
 ## Final Exam (Jan)
 
